@@ -7,7 +7,7 @@ let batmanSound = document.querySelector("#batman_laugh");
 
 let batman = document.querySelector("#batman");
 let buttonOnOff = document.querySelector("#button_on");
-let batmanMsg = document.querySelector("#batman_msg")
+let batmanMsg = document.querySelector("#batman_msg");
 
 console.log(batmanMsg);
 
